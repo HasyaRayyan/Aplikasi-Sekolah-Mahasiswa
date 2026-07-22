@@ -20,3 +20,5 @@ class DataSiswa extends Model
         'birth_date',
     ];
 }
+///aplikasi sekolah mahasiswa
+
